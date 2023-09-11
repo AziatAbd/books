@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/github.io/books/static/css/main.38034577.css",
+    "main.js": "/github.io/books/static/js/main.3694569a.js",
+    "static/js/787.f5db70bc.chunk.js": "/github.io/books/static/js/787.f5db70bc.chunk.js",
+    "static/media/1675389350_foni-club-p-fon-zadnii-knizhnie-polki-4.jpg": "/github.io/books/static/media/1675389350_foni-club-p-fon-zadnii-knizhnie-polki-4.bb57f71f860267472977.jpg",
+    "index.html": "/github.io/books/index.html",
+    "static/media/icons8-search.svg": "/github.io/books/static/media/icons8-search.65f16d159e43a718ceb2e36bcea30497.svg",
+    "main.38034577.css.map": "/github.io/books/static/css/main.38034577.css.map",
+    "main.3694569a.js.map": "/github.io/books/static/js/main.3694569a.js.map",
+    "787.f5db70bc.chunk.js.map": "/github.io/books/static/js/787.f5db70bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38034577.css",
+    "static/js/main.3694569a.js"
+  ]
+}
